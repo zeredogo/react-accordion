@@ -212,3 +212,11 @@ main {
   min-width: 2rem;
 }
 
+.footer{
+  text-align: center;
+  color: #fff;
+  border: none;
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
